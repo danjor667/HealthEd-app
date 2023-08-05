@@ -20,3 +20,6 @@ def select_category(quiz_data):
             return selected_category
         else:
             print("Invalid category number. Please try again.")
+def get_random_question(quiz_data, category):
+    questions = quiz_data[category]
+    return random.choice(questions)
