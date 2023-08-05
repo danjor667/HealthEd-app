@@ -29,6 +29,8 @@ The Health Education Quiz Game is a menu-driven Python program that allows users
 
 You can customize the quiz questions and answers by modifying the `quiz_data` dictionary in the `quiz_game.py` file. Add or remove categories, questions, options, and answers to suit your requirements.
 
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or new features, feel free to submit a pull request or open an issue.
@@ -36,3 +38,5 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 ## Acknowledgements
 
 - The questions and answers in this project are for educational purposes only and should not be considered as professional advice.
+
+
