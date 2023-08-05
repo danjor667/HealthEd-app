@@ -1,0 +1,41 @@
+{
+    "General Health": [
+        {
+            "question": "What is the recommended daily water intake for adults?",
+            "options": ["A. 2 liters", "B. 4 liters", "C. 8 liters", "D. 10 liters"],
+            "answer": "A"
+        },
+        {
+            "question": "Which nutrient is the primary source of energy for the body?",
+            "options": ["A. Protein", "B. Carbohydrate", "C. Fat", "D. Vitamin"],
+            "answer": "B"
+        },
+        {
+            "question": "What is the normal resting heart rate for adults?",
+            "options": ["A. 60-70 beats per minute", "B. 80-90 beats per minute", "C. 100-110 beats per minute", "D. 120-130 beats per minute"],
+            "answer": "A"
+        },
+        {
+            "question": "What is the recommended daily intake of fruits and vegetables?",
+            "options": ["A. 2 servings", "B. 4 servings", "C. 6 servings", "D. 8 servings"],
+            "answer": "C"
+        },
+        {
+            "question": "What is the ideal body mass index (BMI) range for adults?",
+            "options": ["A. 18.5-24.9", "B. 25-29.9", "C. 30-34.9", "D. 35-39.9"],
+            "answer": "A"
+        }
+    ],
+    "Nutrition": [
+        {
+            "question": "Which food group is a good source of calcium?",
+            "options": ["A. Fruits", "B. Vegetables", "C. Grains", "D. Dairy"],
+            "answer": "D"
+        },
+        {
+            "question": "What is the recommended daily intake of fruits and vegetables?",
+            "options": ["A. 2 servings", "B. 4 servings", "C. 6 servings", "D. 8 servings"],
+            "answer": "C"
+        }
+    ]
+}
