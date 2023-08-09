@@ -33,7 +33,7 @@
             "answer": "D"
         },
         {
-            "question": "What is the recommended daily intake of fruits and vegetables?",
+            "question": "What is the  recommended daily intake of fruits and vegetables?",
             "options": ["A. 2 servings", "B. 4 servings", "C. 6 servings", "D. 8 servings"],
             "answer": "C"
         }
