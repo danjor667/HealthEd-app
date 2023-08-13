@@ -47,14 +47,14 @@ def check_answer(question, user_answer):
     if user_answer == correct_answer:
         print("Correct answer!")
     else:
-        print("Incorrect answer. The correct answer is", correct_answer)
+        print("\nIncorrect answer. The correct answer is", correct_answer)
 
 def play_quiz_game(quiz_data):
-    print("Welcome to the Health Education Quiz Game!")
+    print("\n\n\t\t--------------Welcome to the Health Education Quiz Game!----------------")
     display_categories(quiz_data)
 
     selected_category = select_category(quiz_data)
-    print(f"\nYou have selected the '{selected_category}' category.\n")
+    print(f"\n\t\tYou have selected the '{selected_category}' category.\n")
 
     question = get_random_question(quiz_data, selected_category)
     present_question(question)
@@ -69,7 +69,7 @@ quiz_data = load_quiz_data("quiz_questions.txt")
 
 while True:
     play_quiz_game(quiz_data)
-    continue_playing = input("Do you want to play again? (y/n): ")
+    continue_playing = input("\nDo you want to play again? type (y) for yes, any other key to quit: \n")
     if continue_playing.lower() != "y":
         print("Exiting the program...")
         break
