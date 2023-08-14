@@ -1,0 +1,10 @@
+Software Requirement Specification (SRS) for Health Education Quiz Game
+
+Introduction
+
+(i) Purpose of this document: The purpose of this document is to provide a comprehensive specification for the development of a menu-driven health education quiz game. It outlines the functional and non-functional requirements of the application, ensuring a clear understanding of its scope and objectives.
+
+(ii) Scope of this document: This document will serve as a guideline for the development team and stakeholders, outlining the features, functionalities, and performance expectations of the health education quiz game.
+
+(iii) Overview: The menu-driven health education quiz game aims to educate users about various health-related topics through interactive quizzes. The application will present multiple-choice questions from different categories, allowing users to choose their preferred subject and test their knowledge.
+
