@@ -44,4 +44,13 @@ Users shall be able to input their answers using the keyboard (A, B, C, or D).
 The application shall compare the user's answer with the correct answer and display the result.
 The program shall maintain and display the user's score at the end of each quiz session.
 
+Non-Functional Attributes:
 
+The application shall provide an engaging and entertaining user experience.
+The program shall be robust and handle unexpected inputs gracefully.
+The quiz data storage and retrieval shall be secure and well-organized.
+
+Preliminary Schedule and Budget:
+
+The development team shall aim to complete the application within 4 weeks.
+The project budget shall be estimated based on development hours and resources.
