@@ -8,6 +8,23 @@ Introduction
 
 (iii) Overview: The menu-driven health education quiz game aims to educate users about various health-related topics through interactive quizzes. The application will present multiple-choice questions from different categories, allowing users to choose their preferred subject and test their knowledge.
 
+Interface Requirements
+
+The application shall have a user-friendly command-line interface.
+The menu shall provide clear instructions for selecting categories and answering questions.
+The program shall display questions and options in a readable format.
+
+Performance Requirements
+
+The application shall load quiz data quickly to ensure a seamless user experience.
+The quiz game shall be responsive to user inputs, with minimal delays in presenting questions and feedback.
+The program shall handle multiple users and maintain individual scores accurately.
+
+Design Constraints:
+
+The application shall be implemented in Python programming language.
+The menu-driven interface shall be optimized for readability and ease of use.
+The program design shall follow best practices for modular and maintainable code.
 General Description
 
 The menu-driven health education quiz game will provide the following functionalities:
