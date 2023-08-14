@@ -40,4 +40,4 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 
 - The questions and answers in this project are for educational purposes only and should not be considered as professional advice.
 
-
+Thanks!
