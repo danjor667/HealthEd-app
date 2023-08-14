@@ -54,3 +54,5 @@ Preliminary Schedule and Budget:
 
 The development team shall aim to complete the application within 4 weeks.
 The project budget shall be estimated based on development hours and resources.
+
+SRS
