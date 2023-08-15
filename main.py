@@ -50,7 +50,7 @@ def check_answer(question, user_answer):
         print("\nIncorrect answer. The correct answer is", correct_answer)
 
 def play_quiz_game(quiz_data):
-    print("\n\n\t\t--------------Welcome to the Health Education Quiz Game!----------------")
+    print("\n\n\t\t-------------Welcome to the Health Education Quiz Game!---------------")
     display_categories(quiz_data)
 
     selected_category = select_category(quiz_data)
