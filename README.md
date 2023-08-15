@@ -1,3 +1,13 @@
+#Contributers to this project!
+Ademola Ashingbesan
+Favour Akinwande
+Jordan Nguepi
+Victory George
+Merveille Kangabire
+Willy Kalisa
+Benjamin Niyomukiza
+STONE
+
 # HealthEd
 Python HealthEd Quiz App
 
@@ -40,4 +50,3 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 
 - The questions and answers in this project are for educational purposes only and should not be considered as professional advice.
 
-Thanks!
