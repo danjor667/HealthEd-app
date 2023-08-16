@@ -1,0 +1,58 @@
+----Software Requirement Specification (SRS) for Health Education Quiz Game----
+
+Introduction
+
+(i) Purpose of this document: The purpose of this document is to provide a comprehensive specification for the development of a menu-driven health education quiz game. It outlines the functional and non-functional requirements of the application, ensuring a clear understanding of its scope and objectives.
+
+(ii) Scope of this document: This document will serve as a guideline for the development team and stakeholders, outlining the features, functionalities, and performance expectations of the health education quiz game.
+
+(iii) Overview: The menu-driven health education quiz game aims to educate users about various health-related topics through interactive quizzes. The application will present multiple-choice questions from different categories, allowing users to choose their preferred subject and test their knowledge.
+
+Interface Requirements
+
+The application shall have a user-friendly command-line interface.
+The menu shall provide clear instructions for selecting categories and answering questions.
+The program shall display questions and options in a readable format.
+
+Performance Requirements
+
+The application shall load quiz data quickly to ensure a seamless user experience.
+The quiz game shall be responsive to user inputs, with minimal delays in presenting questions and feedback.
+The program shall handle multiple users and maintain individual scores accurately.
+
+Design Constraints:
+
+The application shall be implemented in Python programming language.
+The menu-driven interface shall be optimized for readability and ease of use.
+The program design shall follow best practices for modular and maintainable code.
+General Description
+
+The menu-driven health education quiz game will provide the following functionalities:
+
+Users can select from different health education categories, such as General Health, Nutrition, etc.
+The application will present randomized multiple-choice questions from the selected category.
+Users will be able to choose one of the options (A, B, C, or D) as their answer.
+The application will provide immediate feedback on the correctness of the user's response.
+The quiz game will maintain a score, recording the number of correct answers for each user.
+
+Functional Requirements
+
+The application shall provide a menu-driven interface to allow users to select different health education categories.
+The program shall load quiz questions and answers from a data file.
+The application shall present a random question from the selected category with multiple-choice options.
+Users shall be able to input their answers using the keyboard (A, B, C, or D).
+The application shall compare the user's answer with the correct answer and display the result.
+The program shall maintain and display the user's score at the end of each quiz session.
+
+Non-Functional Attributes:
+
+The application shall provide an engaging and entertaining user experience.
+The program shall be robust and handle unexpected inputs gracefully.
+The quiz data storage and retrieval shall be secure and well-organized.
+
+Preliminary Schedule and Budget:
+
+The development team shall aim to complete the application within 4 weeks.
+The project budget shall be estimated based on development hours and resources.
+
+SRS

@@ -36,6 +36,46 @@
             "question": "What is the  recommended daily intake of fruits and vegetables?",
             "options": ["A. 2 servings", "B. 4 servings", "C. 6 servings", "D. 8 servings"],
             "answer": "C"
+        },
+        {
+        "question": "Which nutrient is a primary source of energy for the body?",
+        "options": ["A. Protein", "B. Fiber", "C. Carbohydrates", "D. Vitamin C"],
+        "answer": "C"
+        },
+        {
+        "question": "What is the role of protein in the body?",
+        "options": ["A. Provides energy", "B. Supports immune system", "C. Enhances vision", "D. Aids digestion"],
+        "answer": "B"
+        },
+        {
+        "question": "What is the function of vitamin D in the body?",
+        "options": ["A. Blood clotting", "B. Energy production", "C. Bone health", "D. Antioxidant activity"],
+        "answer": "C"
+        },
+        {
+        "question": "Which mineral is essential for maintaining fluid balance in the body?",
+        "options": ["A. Iron", "B. Calcium", "C. Sodium", "D. Zinc"],
+        "answer": "C"
+        },
+        {
+        "question": "What is the recommended daily water intake for adults?",
+        "options": ["A. 1 liter", "B. 2 liters", "C. 3 liters", "D. 4 liters"],
+        "answer": "B"
+        },
+        {
+        "question": "Which type of fat is considered the healthiest for consumption?",
+        "options": ["A. Saturated fat", "B. Trans fat", "C. Monounsaturated fat", "D. Hydrogenated fat"],
+        "answer": "C"
+        },
+        {
+        "question": "What is the primary role of dietary fiber in the body?",
+        "options": ["A. Building muscles", "B. Regulating blood sugar", "C. Producing hormones", "D. Strengthening bones"],
+        "answer": "B"
+        },
+        {
+        "question": "Which food item is a good source of omega-3 fatty acids?",
+        "options": ["A. Butter", "B. Olive oil", "C. Avocado", "D. Salmon"],
+        "answer": "D"
         }
     ]
 }
