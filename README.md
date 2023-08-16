@@ -29,7 +29,7 @@ The Health Education Quiz Game is a menu-driven Python program that allows users
 2. Clone this repository or download the project files.
 3. Open a terminal and navigate to the project directory.
 
-## Usage
+## Usage/Functions
 
 1. Run the "quiz_game.py" file in your Python environment.
 2. Follow the on-screen instructions to select a category and answer the questions.
