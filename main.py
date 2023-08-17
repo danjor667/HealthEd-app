@@ -17,13 +17,16 @@ def display_categories(quiz_data):
 
 def select_category(quiz_data):
     while True:
-        choice = int(input("Enter the category number: "))
-        if choice in range(1, len(quiz_data) + 1):
-            categories = list(quiz_data.keys())
-            selected_category = categories[choice - 1]
-            return selected_category
-        else:
-            print("Invalid category number. Please try again.")
+        try:
+            choice = int(input("Enter the category number: "))
+            if choice in range(1, len(quiz_data) + 1):
+                categories = list(quiz_data.keys())
+                selected_category = categories[choice - 1]
+                return selected_category
+            else:
+                print("Invalid category number. Please try again.")
+        except Exception:
+            print("invalid category. please try a number")
 
 def get_random_question(quiz_data, category):
     questions = quiz_data[category]
